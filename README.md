@@ -44,7 +44,7 @@ The above hyperparameters are randomly selected from the given values for 100 it
 
 The following Convergence graph shows the accuracy of sample 2 (maximum accuracy) over the 100 iterations:
 
-![Convergence graph of sample 2](./download (3).png)
+![Convergence graph of sample 2](./download(3).png)
 
 
 ## Result
